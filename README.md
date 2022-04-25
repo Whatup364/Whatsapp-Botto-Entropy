@@ -118,3 +118,4 @@ If you want to say thank you and/or support active development of the WHatsApp B
 
 The WhatsApp Botto Entropy is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/Synthesized-Infinity/Whatsapp-Botto-Entropy/blob/main/LICENSE).
 <br />
+.
